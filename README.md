@@ -1,6 +1,6 @@
-![Incríveis Hackers](Incríveis_hackers.jpg)
+![Awesome](Incríveis_Hackers.jpg)
 
-# [Incríveis Hackers](https://github.com/1evilroot/awesome) 
+# [Awesome]([https://github.com/1evilroot/awesome])
 
 ** Uma coleção de listas incríveis para hackers, pentesters e pesquisadores de segurança. **
 
